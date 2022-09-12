@@ -47,7 +47,7 @@ class Dbcategorydesc extends Module
 
         $this->name = 'dbcategorydesc';
         $this->tab = 'seo';
-        $this->version = '1.1.1';
+        $this->version = '1.2.0';
         $this->author = 'DevBlinders';
         $this->need_instance = 0;
 
